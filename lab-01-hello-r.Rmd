@@ -1,0 +1,55 @@
+---
+title: "Lab 01 - Hello R!"
+author: "YOUR FIRST AND LAST NAME"
+date: "TODAY'S DATE"
+output: html_document
+---
+
+```{r load-libraries, include=FALSE}
+# Load required libraries
+library(tidyverse) 
+library(datasauRus)
+```
+
+# Exercise 1
+
+```{r ex-1}
+# your code for Exercise 1 goes here
+```
+
+YOUR RESPONSE FOR EXERCISE 1 GOES HERE.
+
+
+# Exercise 2
+
+```{r ex-2}
+# your code for Exercise 2 goes here
+```
+
+YOUR RESPONSE FOR EXERCISE 2 GOES HERE.
+
+
+# Exercise 3
+
+```{r ex-3}
+# your code for Exercise 3 goes here
+```
+
+YOUR RESPONSE FOR EXERCISE 3 GOES HERE.
+
+
+# Exercise 4
+
+```{r ex-4}
+# your code for Exercise 4 goes here
+```
+
+YOUR RESPONSE FOR EXERCISE 4 GOES HERE.
+
+# Exercise 5
+
+```{r ex-5}
+# your code for Exercise 5 goes here
+```
+
+YOUR RESPONSE FOR EXERCISE 5 GOES HERE.
